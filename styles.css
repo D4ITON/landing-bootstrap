@@ -73,7 +73,7 @@
 
 /* Workingspace */
 .workingspace{
-    margin-top: 120px;
+    margin-top: 90px;
     text-align: center;
 }
 
@@ -96,7 +96,7 @@
 
 /* Testimonial */
 .testimonial{
-    margin-top: 100px;
+    margin-top: 60px;
 }
 .testimonial h5{
     font-weight: 200;
@@ -128,6 +128,16 @@
 .testimonial figcaption{
     text-align: center;
 }
+
+/* footer */
+.footer{
+    margin-top: 100px;
+}
+.footer p{
+    color: #acacac;
+    font-size: 18px;
+}
+
 
 /* Utility */
 .tombol{
@@ -168,10 +178,14 @@
         font-size: 62px;
     }
     .workingspace{
+        margin-top: 120px;
         text-align: left;
     }
     .workingspace h3{
         font-size: 54px;
+    }
+    .testimonial{
+        margin-top: 100px;
     }
     .testimonial h5{
         font-size: 32px;
